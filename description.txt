@@ -1,0 +1,19 @@
+Adds unobtainable (use a mod like Cheat Sheet or Hero's Mod to get them) items which spawn various Calamity biomes and structures.
+A full list of supported structures and biomes:
+
+- All 8 shrines
+- Brimstone Crag
+- Sunken Sea
+- Abyss + Sulphurous Sea (both in one item)
+- Luminite Planetoids
+- Mechanic's Shed
+- Vernal Pass
+- All three Forsaken Archive variants
+- The Astral Beacon tower
+- Every type of Draedon lab
+- Disenchanted Aerialite Ore veins
+
+Most structures will generate on your cursor, with the top left of the structure being the anchor with the exceptions being the Brimstone Crag, Abyss+SS, Aerialite veins, and Luminite Planetoids which will automatically generate in their normal locations. The larger ones may also take a while, but will usually eventually generate after at most a few minutes unless they run into a chest (check for chests!).
+
+If you are concerned about your world's state of being, probably turn autosave off or make a backup before using one of the items incase a mistake is made as placement cannot be undone. 
+
