@@ -29,7 +29,7 @@ namespace Calgen.Items
 
         public override bool? UseItem(Player player)
         {
-            CalamityMod.World.AerialiteOreGen.Generate(false);
+            CalamityMod.World.AerialiteOreGen.Generate();
             return true;
         }
     }

@@ -17,3 +17,4 @@ Most structures will generate on your cursor, with the top left of the structure
 
 If you are concerned about your world's state of being, probably turn autosave off or make a backup before using one of the items incase a mistake is made as placement cannot be undone. 
 
+Discord: https://discord.gg/rtq3jRDsrA

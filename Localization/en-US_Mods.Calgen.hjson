@@ -1,0 +1,136 @@
+Items: {
+	AstralMonolith: {
+		DisplayName: Astral Monolith
+		Tooltip: ""
+	}
+
+	CorruptionShrine: {
+		DisplayName: Corruption Shrine
+		Tooltip: ""
+	}
+
+	Crags: {
+		DisplayName: Crags
+		Tooltip: ""
+	}
+
+	CrimsonShrine: {
+		DisplayName: Crimson Shrine
+		Tooltip: ""
+	}
+
+	DesertShrine: {
+		DisplayName: Desert Shrine
+		Tooltip: ""
+	}
+
+	ForsakenArchive: {
+		DisplayName: Forsaken Archive
+		Tooltip: ""
+	}
+
+	ForsakenArchiveGreen: {
+		DisplayName: Forsaken Archive Green
+		Tooltip: ""
+	}
+
+	ForsakenArchivePink: {
+		DisplayName: Forsaken Archive Pink
+		Tooltip: ""
+	}
+
+	GraniteShrine: {
+		DisplayName: Granite Shrine
+		Tooltip: ""
+	}
+
+	HellLab: {
+		DisplayName: Hell Lab
+		Tooltip: ""
+	}
+
+	IceLab: {
+		DisplayName: Ice Lab
+		Tooltip: ""
+	}
+
+	IceShrine: {
+		DisplayName: Ice Shrine
+		Tooltip: ""
+	}
+
+	JungleLab: {
+		DisplayName: Jungle Lab
+		Tooltip: ""
+	}
+
+	Lab: {
+		DisplayName: Lab
+		Tooltip: ""
+	}
+
+	Lumiplanet: {
+		DisplayName: Lumiplanet
+		Tooltip: ""
+	}
+
+	MarbleShrine: {
+		DisplayName: Marble Shrine
+		Tooltip: ""
+	}
+
+	MushroomShrine: {
+		DisplayName: Mushroom Shrine
+		Tooltip: ""
+	}
+
+	OnyxLab: {
+		DisplayName: Onyx Lab
+		Tooltip: ""
+	}
+
+	Planetoids: {
+		DisplayName: Planetoids
+		Tooltip: ""
+	}
+
+	Shed: {
+		DisplayName: Shed
+		Tooltip: ""
+	}
+
+	SpaceLab: {
+		DisplayName: Space Lab
+		Tooltip: ""
+	}
+
+	SulphurSea: {
+		DisplayName: Sulphur Sea
+		Tooltip: ""
+	}
+
+	SunkenLab: {
+		DisplayName: Sunken Lab
+		Tooltip: ""
+	}
+
+	SunkenSea: {
+		DisplayName: Sunken Sea
+		Tooltip: ""
+	}
+
+	SurfaceShrine: {
+		DisplayName: Surface Shrine
+		Tooltip: ""
+	}
+
+	VernalPass: {
+		DisplayName: Vernal Pass
+		Tooltip: ""
+	}
+
+	Workshop: {
+		DisplayName: Workshop
+		Tooltip: ""
+	}
+}
