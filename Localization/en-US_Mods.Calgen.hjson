@@ -1,136 +1,136 @@
 Items: {
 	AstralMonolith: {
-		DisplayName: Astral Monolith
+		DisplayName: Astral Monolith Placer
 		Tooltip: ""
 	}
 
 	CorruptionShrine: {
-		DisplayName: Corruption Shrine
+		DisplayName: Corruption Shrine Placer
 		Tooltip: ""
 	}
 
 	Crags: {
-		DisplayName: Crags
+		DisplayName: Brimstone Crag Placer
 		Tooltip: ""
 	}
 
 	CrimsonShrine: {
-		DisplayName: Crimson Shrine
+		DisplayName: Crimson Shrine Placer
 		Tooltip: ""
 	}
 
 	DesertShrine: {
-		DisplayName: Desert Shrine
+		DisplayName: Desert Shrine Placer
 		Tooltip: ""
 	}
 
 	ForsakenArchive: {
-		DisplayName: Forsaken Archive
+		DisplayName: Blue Forsaken Archive Placer
 		Tooltip: ""
 	}
 
 	ForsakenArchiveGreen: {
-		DisplayName: Forsaken Archive Green
+		DisplayName: Green Forsaken Archive Placer
 		Tooltip: ""
 	}
 
 	ForsakenArchivePink: {
-		DisplayName: Forsaken Archive Pink
+		DisplayName: Pink Forsaken Archive Placer
 		Tooltip: ""
 	}
 
 	GraniteShrine: {
-		DisplayName: Granite Shrine
+		DisplayName: Granite Shrine Placer
 		Tooltip: ""
 	}
 
 	HellLab: {
-		DisplayName: Hell Lab
+		DisplayName: Hell Lab Placer
 		Tooltip: ""
 	}
 
 	IceLab: {
-		DisplayName: Ice Lab
+		DisplayName: Ice Lab Placer
 		Tooltip: ""
 	}
 
 	IceShrine: {
-		DisplayName: Ice Shrine
+		DisplayName: Ice Shrine Placer
 		Tooltip: ""
 	}
 
 	JungleLab: {
-		DisplayName: Jungle Lab
+		DisplayName: Jungle Lab Placer
 		Tooltip: ""
 	}
 
 	Lab: {
-		DisplayName: Lab
+		DisplayName: Research Outpost Placer
 		Tooltip: ""
 	}
 
 	Lumiplanet: {
-		DisplayName: Lumiplanet
+		DisplayName: Luminite Planetoid Placer
 		Tooltip: ""
 	}
 
 	MarbleShrine: {
-		DisplayName: Marble Shrine
+		DisplayName: Marble Shrine Placer
 		Tooltip: ""
 	}
 
 	MushroomShrine: {
-		DisplayName: Mushroom Shrine
+		DisplayName: Mushroom Shrine Placer
 		Tooltip: ""
 	}
 
 	OnyxLab: {
-		DisplayName: Onyx Lab
+		DisplayName: Onyx Lab Placer
 		Tooltip: ""
 	}
 
 	Planetoids: {
-		DisplayName: Planetoids
+		DisplayName: Aerialite Ore Generator
 		Tooltip: ""
 	}
 
 	Shed: {
-		DisplayName: Shed
+		DisplayName: Mechanic's Shed Placer
 		Tooltip: ""
 	}
 
 	SpaceLab: {
-		DisplayName: Space Lab
+		DisplayName: Space Lab Placer
 		Tooltip: ""
 	}
 
 	SulphurSea: {
-		DisplayName: Sulphur Sea
+		DisplayName: Sulphurous Sea Placer
 		Tooltip: ""
 	}
 
 	SunkenLab: {
-		DisplayName: Sunken Lab
+		DisplayName: Sunken Sea Lab Placer
 		Tooltip: ""
 	}
 
 	SunkenSea: {
-		DisplayName: Sunken Sea
-		Tooltip: ""
+		DisplayName: Sunken Sea Generator
+		Tooltip: "Generates a Sunken Sea to the right of you when above sand"
 	}
 
 	SurfaceShrine: {
-		DisplayName: Surface Shrine
+		DisplayName: Surface Shrine Placer
 		Tooltip: ""
 	}
 
 	VernalPass: {
-		DisplayName: Vernal Pass
+		DisplayName: Vernal Pass Placer
 		Tooltip: ""
 	}
 
 	Workshop: {
-		DisplayName: Workshop
+		DisplayName: Rusted Workshop Placer
 		Tooltip: ""
 	}
 }
