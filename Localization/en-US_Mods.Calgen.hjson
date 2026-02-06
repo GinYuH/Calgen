@@ -116,7 +116,7 @@ Items: {
 
 	SunkenSea: {
 		DisplayName: Sunken Sea Generator
-		Tooltip: "Generates a Sunken Sea to the right of you when above sand"
+		Tooltip: Generates a Sunken Sea to the right of you when above sand
 	}
 
 	SurfaceShrine: {

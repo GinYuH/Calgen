@@ -19,7 +19,7 @@ namespace Calgen.Items
             Item.value = 0;
             Item.autoReuse = false;
             Item.useStyle = 4;
-            Item.UseSound = CalamityMod.Sounds.CommonCalamitySounds.OtherwordlyHitSound;
+            Item.UseSound = CalamityMod.NPCs.DevourerofGods.DevourerofGodsHead.HitSound;
             Item.width = 54;
             Item.height = 46;
             Item.useTime = 16;

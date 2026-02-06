@@ -12,7 +12,7 @@ namespace Calgen.Items
 {
     public class AstralMonolith : BaseGenerator
     {
-        public override string Texture => "CalamityMod/Items/Placeables/AstralMonolith";
+        public override string Texture => "CalamityMod/Items/Placeables/FurnitureMonolith/AstralMonolith";
         public override string StructName => "Astral Beacon Tower";
         public override string ShortName => "tower";
         public override Terraria.Audio.SoundStyle UseSound => CalamityMod.NPCs.AstrumDeus.AstrumDeusHead.SpawnSound;
